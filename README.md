@@ -46,4 +46,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - Github - [Cypha](https://github.com/OmarCypha700)
 - Frontend Mentor - [@OmarCypha700](https://www.frontendmentor.io/profile/OmarCypha700)
-- Twitter - [@omar_cypha](https://www.twitter.com/omar_cypha)
+- Twitter - [@OmarCypha](https://www.twitter.com/OmarCypha)
