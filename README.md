@@ -42,8 +42,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - Family: [Red Hat Display](https://fonts.google.com/specimen/Red+Hat+Display)
 
-## Author
 
-- Github - [Cypha](https://github.com/OmarCypha700)
+**Note:** I will be redesigning these challenges with **Figma** check them out on my [Twitter](https://www.twitter.com/OmarCypha) page.
+
+## Author
+- Github - [@Omarcypha700](https://github.com/OmarCypha700)
 - Frontend Mentor - [@OmarCypha700](https://www.frontendmentor.io/profile/OmarCypha700)
 - Twitter - [@OmarCypha](https://www.twitter.com/OmarCypha)
